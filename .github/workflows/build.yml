@@ -19,3 +19,4 @@ jobs:
         with:
           name: FlashNotify-apk
           path: build/outputs/apk/debug/*.apk
+          
